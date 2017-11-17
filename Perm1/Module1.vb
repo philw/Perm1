@@ -1,5 +1,6 @@
 ﻿Module Module1
 
+    ' added a comment
     Sub Main()
 
         Dim S() As Char = {"A", "B", "C", "D"}
